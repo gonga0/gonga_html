@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "Galmuri11";
+    src: url("./Galmuri11.ttf") format("truetype");
+}
+
+
+body {
+    background-color: #258e6b;
+
+
+}
+
+p {
+    font-family: "Galmuri11";
+    font-size: 30px;
+}
+
+img {
+    width: 500px;
+}
